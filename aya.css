@@ -1,0 +1,35 @@
+body{
+    background-image: url(./fond-abstrait-echelle-gris_155717-86.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+
+}
+.hah{
+        margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    border-style: double;
+    padding: 10px;
+}
+.lol{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #5221ad;
+    border-style: double;
+    padding: 10px;
+    font-size: 20px;
+}
+.hi{
+   text-align: center;
+}
+.cimg{
+    display: block;
+    margin: auto;
+}
+.ok{
+    font-size: 60px;
+    font-family: cursive;
+}
+.hah h2{
+    margin-top: -40px;
+}
